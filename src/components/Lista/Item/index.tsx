@@ -1,6 +1,6 @@
 import style from "../Lista.module.scss";
 
-export function Item({
+export default function Item({
   descricao,
   tempo,
 }: {
